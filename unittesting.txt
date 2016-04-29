@@ -1,0 +1,5 @@
+I essentially glanced over dominion.c and looked for functions for which their purpose is obvious.
+With all tests performed there's still less than 30% coverage, so it would very time consuming to manually
+test each card and function. Additionally, there are functions that appear to have bugs so it was difficult
+to determine how to test for them without knowing the expected outcome. Perhaps I need to become even more
+familiar with the game? 
