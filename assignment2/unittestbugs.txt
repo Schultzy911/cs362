@@ -1,0 +1,2 @@
+The function scoreFor incorrectly counts victory and curse cards in the discard pile,and adventurer did
+not produce expected behavior. Furthermore, the number of remaining actions is not properly incremented.
