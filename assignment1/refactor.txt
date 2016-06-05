@@ -1,0 +1,9 @@
+I refactored the following cards out of cardEffect():
+
+Adventurer
+Council Room
+Feasts
+Remodel
+Smithy
+
+The process included getting familiar with Dominion and how each card is supposed to work. 
